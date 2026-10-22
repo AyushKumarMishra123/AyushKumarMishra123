@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushKumarMishra123&style=flat-square&color=2563eb" alt="Profile views" />
+  <img
+    src="https://hits.sh/github.com/AyushKumarMishra123.svg?label=Profile+views&color=2563eb"
+    alt="Profile views"
+  />
 </p>
-
 👋 About Me
 Hey! I'm Ayush, a Computer Science student specializing in AI & Machine Learning (CSE-AIML). I enjoy turning ideas into useful web applications, strengthening my backend fundamentals, and solving problems with code.
 - 💻 Building projects with JavaScript, Node.js, Express, and MongoDB
