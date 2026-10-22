@@ -71,14 +71,7 @@ Hey! I'm Ayush, a Computer Science student specializing in AI & Machine Learning
   <img src="https://streak-stats.demolab.com?user=AyushKumarMishra123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushKumarMishra123/AyushKumarMishra123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushKumarMishra123/AyushKumarMishra123/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation crawling across my GitHub contribution grid" src="https://raw.githubusercontent.com/AyushKumarMishra123/AyushKumarMishra123/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
+
 
 🤝 Let's Connect
 I'm interested in meeting developers, learning from open-source communities, and collaborating on practical projects.
