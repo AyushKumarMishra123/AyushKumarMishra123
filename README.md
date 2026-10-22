@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ayush Kumar Mishra
 
-🎓 First-year Computer Science student  
+🎓 Second-year Computer Science student  
 💻 Passionate about Web Development & Problem Solving  
 
 ---
